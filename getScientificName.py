@@ -9,7 +9,7 @@
 # - sudo pip install pandas
 
 # Galaxy prequisites:
-# - sudo ln -s /path/to/folder/galaxy-tool-accepted-taxonomic-name/getScientificName.py 
+# - sudo ln -s /path/to/folder/galaxy-tool-synonym-checker/getScientificName.py 
 #              /usr/local/bin/getScientificName.py
 
 # Imports
