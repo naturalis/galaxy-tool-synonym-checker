@@ -1,4 +1,7 @@
 # galaxy-tool-synonym-checker
+
+__!!Repo can be deleted, copy is also kept [here](https://github.com/JasperBoom/galaxy-tools-naturalis-internship)!!.__
+
 Use a python script to utilize either the Global Names api or the TNRS api to collect accepted taxonomic names.  
 The AcceptedTaxonomicName tool will utilize either the Global Names api or the Taxonomic Name Resolution Service api to collect accepted taxonomic names based on BLAST identifications.
 
@@ -44,7 +47,8 @@ Edit the following file in order to make galaxy display the tool.
 ```
 
 ## Source(s)
-* __Pyle RL__, Towards a Global Names Architecture: The future of indexing scientific names.  
+* __Pyle RL__,  
+  Towards a Global Names Architecture: The future of indexing scientific names.  
   ZooKeys. 2016; 550: 261-281. __doi: 10.3897/zookeys.550.10009__  
   [Global Names](https://resolver.globalnames.org/api)
 * __Boyle B, Hopkins N, Lu Z, Garay JAR, Mozzherin D, Rees T__,  
@@ -53,5 +57,21 @@ Edit the following file in order to make galaxy display the tool.
   [TNRS](http://tnrs.iplantcollaborative.org/api.html)
 * __Giardine B, Riemer C, Hardison RC, Burhans R, Elnitski L, Shah P__,  
   Galaxy: A platform for interactive large-scale genome analysis.  
-  Genome Research. 2005; 15(10) 1451-1455 __doi: 10.1101/gr.4086505__  
-  [GALAXY](https://www.galaxyproject.org/)
+  Genome Research. 2005; 15(10) 1451-1455. __doi: 10.1101/gr.4086505__  
+  [Galaxy](https://www.galaxyproject.org/)
+
+```
+Copyright (C) 2018 Jasper Boom
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3 as
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+```
